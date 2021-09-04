@@ -4986,4 +4986,4 @@ var mention= message.mentions.members.first()
 
 
 
-client.login("ODcwMjUzMjc0NjQzNzAxNzkw.YQKEhQ.QTXFNyEh_dMQL1BTiBh4poPFO80");
+client.login("ODcwMjUzMjc0NjQzNzAxNzkw.YQKEhQ.e6cdI6cuNd9Hl1U-JZl5zPgvv5g");
