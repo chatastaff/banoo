@@ -4986,4 +4986,4 @@ var mention= message.mentions.members.first()
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("ODcwMjUzMjc0NjQzNzAxNzkw.YQKEhQ.QTXFNyEh_dMQL1BTiBh4poPFO80");
